@@ -13,8 +13,8 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-#![feature(or_patterns)]
-#![feature(async_closure)]
+//#![feature(or_patterns)]
+//#![feature(async_closure)]
 mod config;
 mod ingester;
 mod iterator;
